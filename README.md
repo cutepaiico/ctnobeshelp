@@ -6,7 +6,8 @@ ctnobes is bot made by me
 
 join my server (not support bot server) [Server Link](https://discord.gg/KCRVtgUJ7y)
 
-## commands ### (with usage) 
+## commands 
+### (with usage)
 
 `=hello` : answering "hi" to the user
 
