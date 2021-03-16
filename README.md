@@ -6,6 +6,8 @@ ctnobes is bot made by me
 
 ## commands
 
-=hello : answering "hi" to the user
+`=hello` : answering "hi" to the user
 
-=help : help command
+`=help` : help command
+
+`=kick <mention>` : kick a user
