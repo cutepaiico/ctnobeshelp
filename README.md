@@ -12,9 +12,6 @@ join my server (not support bot server) [Server Link](https://discord.gg/KCRVtgU
 `=hello` : answering "hi" to the user
 `=help` : help command
 `=invite` : invite link to the bot
-
 `=info` : information of the bot
-
 `=ping` : your ping
-
 `=kick <mention>` : kick a user
