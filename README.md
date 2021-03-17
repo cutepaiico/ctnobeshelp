@@ -17,4 +17,6 @@ join my server (not support bot server) [Server Link](https://discord.gg/KCRVtgU
 
 `=info` : information of the bot
 
+`=ping` : your ping
+
 `=kick <mention>` : kick a user
