@@ -10,7 +10,6 @@ join my server (not support bot server) [Server Link](https://discord.gg/KCRVtgU
 ### (with usage)
 
 `=hello` : answering "hi" to the user
-
 `=help` : help command
 
 `=invite` : invite link to the bot
